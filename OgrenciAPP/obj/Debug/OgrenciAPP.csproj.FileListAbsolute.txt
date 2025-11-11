@@ -1,0 +1,14 @@
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\bin\Debug\OgrenciAPP.exe.config
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\bin\Debug\OgrenciAPP.exe
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\bin\Debug\OgrenciAPP.pdb
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.csproj.AssemblyReference.cache
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.MainForm.resources
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.Properties.Resources.resources
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.csproj.GenerateResource.cache
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.csproj.CoreCompileInputs.cache
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.exe
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.pdb
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.LoginForm.resources
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.OgrenciForm.resources
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.FrmUserList.resources
+C:\Users\Salih\source\repos\OgrenciAPP\OgrenciAPP\obj\Debug\OgrenciAPP.FrmKullaniciEkle.resources

@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|c:\\users\\salih\\source\\repos\\ogrenciapp\\ogrenciapp\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|c:\\users\\salih\\source\\repos\\ogrenciapp\\ogrenciapp\\vtislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\vtislemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|c:\\users\\salih\\source\\repos\\ogrenciapp\\ogrenciapp\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\kullaniciekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|c:\\users\\salih\\source\\repos\\ogrenciapp\\ogrenciapp\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|c:\\users\\salih\\source\\repos\\ogrenciapp\\ogrenciapp\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\frmuserlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\ogrenciapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\ogrenciapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|c:\\users\\salih\\source\\repos\\ogrenciapp\\ogrenciapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\ogrenciapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\ogrenciapp\\ogrenciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCB874FD-F25C-454B-8563-44C7F4A0184D}|OgrenciAPP\\OgrenciAPP.csproj|solutionrelative:ogrenciapp\\ogrenciform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KullaniciEkle.cs",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\KullaniciEkle.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\KullaniciEkle.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\KullaniciEkle.cs",
+              "RelativeToolTip": "OgrenciAPP\\KullaniciEkle.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowCAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:35:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUserList.cs",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\FrmUserList.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\FrmUserList.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\FrmUserList.cs",
+              "RelativeToolTip": "OgrenciAPP\\FrmUserList.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAEwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:08:36.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUserList.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\FrmUserList.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\FrmUserList.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\FrmUserList.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgrenciAPP\\FrmUserList.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:03:32.322Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VTislemleri.cs",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\VTislemleri.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\VTislemleri.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\VTislemleri.cs",
+              "RelativeToolTip": "OgrenciAPP\\VTislemleri.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAUwG0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T19:45:01.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\MainForm.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\MainForm.cs",
+              "RelativeToolTip": "OgrenciAPP\\MainForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAowB4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:39:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\MainForm.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgrenciAPP\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:01:21.204Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciEkle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\KullaniciEkle.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\KullaniciEkle.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\KullaniciEkle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgrenciAPP\\KullaniciEkle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:33:46.771Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\LoginForm.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\LoginForm.cs",
+              "RelativeToolTip": "OgrenciAPP\\LoginForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAcwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:34:18.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\LoginForm.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\LoginForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgrenciAPP\\LoginForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:28:33.164Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OgrenciForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\OgrenciForm.cs",
+              "RelativeDocumentMoniker": "OgrenciAPP\\OgrenciForm.cs",
+              "ToolTip": "C:\\Users\\Salih\\source\\repos\\OgrenciAPP\\OgrenciAPP\\OgrenciForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "OgrenciAPP\\OgrenciForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T18:50:07.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
